@@ -1,3 +1,8 @@
+
+
+
+
+
 const p = document.getElementById("par");
 
 let dakika = +prompt("lütfen dakika giriniz");
